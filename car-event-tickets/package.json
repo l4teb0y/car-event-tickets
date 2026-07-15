@@ -1,0 +1,1 @@
+{"name":"car-event-tickets","version":"1.2.0","private":true,"scripts":{"dev":"next dev","build":"next build","start":"next start"},"dependencies":{"html5-qrcode":"2.3.8","next":"16.0.10","react":"19.2.4","react-dom":"19.2.4"},"devDependencies":{"@types/node":"22.10.2","@types/react":"19.2.2","@types/react-dom":"19.2.0","typescript":"5.6.3"}}
